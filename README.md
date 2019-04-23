@@ -75,7 +75,8 @@ pub enum Direction {
     East,
     South,
     West,
-}```
+}
+```
      
 That concludes the struct creation, time to implement it, since Robot::new() is obvious (just create a Robot given parameter x, y, and direction), let's skip to implement turn left and right:
   
