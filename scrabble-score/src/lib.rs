@@ -1,7 +1,8 @@
-/// Compute the Scrabble score for a word.
+/// https://exercism.io/tracks/rust/exercises/scrabble-score
+
 pub fn score(word: &str) -> u64 {
     let mut sum = 0;
-	//let words = word.replace("ß", "");
+	//let word = word.replace("ß", "");
 	for letter in word.to_lowercase().chars() {
 		sum += match letter {
 			'a'|'e'|'i'|'o'|'u'|'l'|'n'|'r'|'s'|'t' => 1,

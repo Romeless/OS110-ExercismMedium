@@ -1,3 +1,5 @@
+// https://exercism.io/tracks/rust/exercises/pascals-triangle
+
 pub struct PascalsTriangle {
 	triangle : Vec<Vec<u32>>,
 }

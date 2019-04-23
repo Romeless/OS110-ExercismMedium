@@ -1,3 +1,5 @@
+// https://exercism.io/tracks/rust/exercises/queen-attack
+
 #[derive(Debug)]
 pub struct ChessPosition {
 	rank: i32,

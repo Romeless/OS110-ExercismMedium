@@ -1,6 +1,10 @@
 # OS110-ExercismMedium
 Exercism Medium Exercise for OS 110 UNJ
 
+- Name		: Rama Lesmana
+- NIM 		: 1313617011
+- Exercism	: Romeless
+
 The exercises I have chosen:
 - Clock
 - Pascal's Triangle
